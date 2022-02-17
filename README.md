@@ -14,6 +14,7 @@ This project consisted on analyzing weather data from Oahu, Hawaii to support a 
 
 ## Results
 Statistical results of the precipitation and temperature of the two most active and important months across the years as follows:
+
 ![image](https://user-images.githubusercontent.com/96051648/154567394-a1e510b4-6256-4b66-ba57-b2b990dcf960.png)
 
 ![image](https://user-images.githubusercontent.com/96051648/154567479-46674ff2-b6e6-4fd1-9fdc-24bb8f5d5fbe.png)
